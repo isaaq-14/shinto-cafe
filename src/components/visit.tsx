@@ -28,7 +28,7 @@ export function Visit() {
           <h3>Good to know</h3>
           <ul className="facts">
             <li>{site.costForTwo}</li>
-            <li>Dogs are welcome.</li>
+            <li>Pets are welcome.</li>
             <li>
               Order delivery on{" "}
               <a href={site.links.zomato} target="_blank" rel="noopener noreferrer" className="underline">Zomato</a>
