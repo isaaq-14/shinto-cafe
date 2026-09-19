@@ -25,9 +25,9 @@ function resolveSiteUrl(): string {
  */
 export const site = {
   name: "Shinto",
-  title: "Shinto | Asian café and coffee bar in Indiranagar, Bengaluru",
+  title: "Shinto | All day Asian eatery & Speciality Coffee bar in Indiranagar, Bengaluru",
   description:
-    "Ramen, sandos, matcha and cold brew in Indiranagar, Bengaluru. Japanese, Korean, Thai, Vietnamese and Indonesian plates with specialty coffee. Pet friendly. Open every day, 11 am to 11 pm.",
+    "an Asian eatery and Speciality coffee shop heavily influenced by pan-asian sub-cultures and a rooted, Wabi-Sabi way of living. Pet friendly. Open every day, 11 am to 11 pm.",
   url: resolveSiteUrl(),
   timezone: "Asia/Kolkata",
 
