@@ -107,7 +107,7 @@ export function MenuSection() {
               ))}
             </TabsContent>
           ))}
-          <p className="menu-foot">Menu and prices can change. Ask at the counter if you have a dietary question.</p>
+          <p className="menu-foot">Menu and prices can change. Please ask at the counter if you have a dietary question.</p>
         </div>
       </Tabs>
     </section>
