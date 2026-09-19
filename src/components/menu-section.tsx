@@ -71,7 +71,7 @@ export function MenuSection() {
         <div className="menu-head">
           <div>
             <h2 className="display" id="menu-h">The menu</h2>
-            <p>Food and coffee, all day. Prices are in rupees.</p>
+            <p>Food and coffee, all day. Brewtifully Asian.</p>
           </div>
           <div className="filters">
             <label className="inline-flex cursor-pointer items-center gap-2.5 font-semibold">
