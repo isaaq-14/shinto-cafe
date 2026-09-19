@@ -15,7 +15,7 @@ export function Hero() {
           <span>[pet friendly]</span>
         </p>
         <p className="hero-sub">
-          Ramen, sandos, matcha and cold brew in Indiranagar. Japanese, Korean, Thai, Vietnamese and Indonesian plates, plus specialty coffee.
+          an Asian eatery and Speciality coffee shop heavily influenced by pan-asian sub-cultures and a rooted, Wabi-Sabi way of living.
         </p>
         <div className="hero-cta">
           <Button asChild variant="primary">
