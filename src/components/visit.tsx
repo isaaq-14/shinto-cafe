@@ -27,7 +27,7 @@ export function Visit() {
           <OpenStatus />
           <h3>Good to know</h3>
           <ul className="facts">
-            <li>{site.costForTwo}</li>
+            {/* <li>{site.costForTwo}</li> */}
             <li>Pets are welcome.</li>
             <li>
               Order delivery on{" "}
