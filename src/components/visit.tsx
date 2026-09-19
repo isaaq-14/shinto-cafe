@@ -43,7 +43,7 @@ export function Visit() {
             <li>
               Follow{" "}
               <a href={site.links.instagram} target="_blank" rel="noopener noreferrer" className="underline">{site.links.instagramHandle}</a>{" "}
-              for new dishes and specials.
+              for our curated posts and exciting updates!
             </li>
           </ul>
         </div>
